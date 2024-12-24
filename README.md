@@ -1,0 +1,2 @@
+# Groovy NullPointerException in Arithmetic Operations
+This example demonstrates a common error in Groovy when performing arithmetic operations without proper null checks.  If either `a` or `b` is `null`, a `NullPointerException` will be thrown. The solution demonstrates how to add simple null checks to prevent this error.  This is especially crucial in scenarios where data might be missing or incomplete.
